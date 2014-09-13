@@ -1,0 +1,27 @@
+body
+{
+	background-image: url("../img/bg_img.png");
+	color: black;
+	font-family: 'Roboto Condensed', 'Arial' , sans-serif;
+}
+div
+{border: 1px black solid;}
+
+h1
+{color: darkblue;}
+
+.resume
+{color: #660066;}
+
+div:hover
+{
+	background-color: yellow;
+}
+
+img {
+	float: left;
+}
+
+br {
+	clear: both;
+}
