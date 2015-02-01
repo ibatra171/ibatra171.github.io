@@ -18,6 +18,24 @@ div:hover
 	background-color: yellow;
 }
 
+#menu
+{
+	background-color: #E6E6FA;
+	height: 5%;
+	width: 90%;
+	position: fixed;
+	z-index: 5;
+}
+
+.mid
+{
+	background-color: blue;
+	height: 5%;
+	width: 90%;
+	margin: 15px;
+	padding: 5px;
+}
+
 img {
 	float: left;
 }
